@@ -1,0 +1,13 @@
+<template name="MainLayout">
+    <header>
+        <h1>My Recipe Book</h1> {{> loginButtons}}
+    </header>
+    <main>
+        {{> Template.dynamic template=main}}
+    </main>
+</template>
+<!-- Defining the connection b/t this template and the dynamic Template.dynamic is done in routes.js -->
+<!-- <template name="Test">
+    HELLO!!
+</template>
+ -->
