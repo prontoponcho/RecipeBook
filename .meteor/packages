@@ -35,3 +35,4 @@ zimme:active-route
 gwendall:auth-client-callbacks
 meteortoys:allthings		# Includes Mongol for seeing client side collections and JetSetter for seeing session variables. ctrl + m to toggle.
 datariot:ganalytics			# Google Analytics
+check
